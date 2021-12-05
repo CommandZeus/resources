@@ -1,0 +1,344 @@
+{
+  "514": {
+    "category": "music",
+    "sounds": [
+      "514"
+    ]
+  },
+  "guuzou": {
+    "category": "music",
+    "sounds": [
+      "guuzou"
+    ]
+  },
+  "kagayaku": {
+    "category": "music",
+    "sounds": [
+      "kagayaku"
+    ]
+  },
+  "kamisabi": {
+    "category": "music",
+    "sounds": [
+      "kamisabi"
+    ]
+  },
+  "daikichi": {
+    "category": "music",
+    "sounds": [
+      "daikichi"
+    ]
+  },
+  "haru": {
+    "category": "music",
+    "sounds": [
+      "haru"
+    ]
+  },
+  "hitokusareta": {
+    "category": "music",
+    "sounds": [
+      "hitokusareta"
+    ]
+  },
+  "kokoro": {
+    "category": "music",
+    "sounds": [
+	  "kokoro"
+	]
+  },
+  "915": {
+    "category": "ambient",
+    "sounds": [
+      "915"
+    ]
+  },
+  "nakioujyo": {
+    "category": "music",
+    "sounds": [
+      "nakioujyo"
+    ]
+  },
+  "pandemonic_planet": {
+    "category": "music",
+    "sounds": [
+      "pandemonic_planet"
+    ]
+  },
+  "rokujyuunen": {
+    "category": "music",
+    "sounds": [
+      "rokujyuunen"
+    ]
+  },
+  "satori": {
+    "category": "music",
+    "sounds": [
+      "satori"
+    ]
+  },
+  "sennen": {
+    "category": "music",
+    "sounds": [
+      "sennen"
+    ]
+  },
+  "syoutoku": {
+    "category": "music",
+    "sounds": [
+      "syoutoku"
+    ]
+  },
+  "unowen": {
+    "category": "music",
+    "sounds": [
+      "unowen"
+    ]
+  },
+  "yuuga": {
+    "category": "music",
+    "sounds": [
+      "yuuga"
+    ]
+  },
+  "aliez": {
+    "category": "music",
+    "sounds": [
+      "aliez"
+    ]
+  },
+  "bad_apple": {
+    "category": "music",
+    "sounds": [
+      "bad_apple"
+    ]
+  },
+  "brave_girls": {
+    "category": "music",
+    "sounds": [
+      "brave_girls"
+    ]
+  },
+  "circulation": {
+    "category": "music",
+    "sounds": [
+      "circulation"
+    ]
+  },
+  "dango": {
+    "category": "music",
+    "sounds": [
+      "dango"
+    ]
+  },
+  "de_javu": {
+    "category": "music",
+    "sounds": [
+      "de_javu"
+    ]
+  },
+  "dongfangyemingge": {
+    "category": "music",
+    "sounds": [
+      "dongfangyemingge"
+    ]
+  },
+  "eiya": {
+    "category": "music",
+    "sounds": [
+      "eiya"
+    ]
+  },
+  "flame_of_nuclear": {
+    "category": "music",
+    "sounds": [
+      "flame_of_nuclear"
+    ]
+  },
+  "freesia": {
+    "category": "music",
+    "sounds": [
+      "freesia"
+    ]
+  },
+  "gensoujyoururi": {
+    "category": "music",
+    "sounds": [
+      "gensoujyoururi"
+    ]
+  },
+  "god_knows": {
+    "category": "music",
+    "sounds": [
+      "god_konws"
+    ]
+  },
+  "gokurakujyoudo": {
+    "category": "music",
+    "sounds": [
+      "gokurakujyoudo"
+    ]
+  },
+  "guojige": {
+    "category": "music",
+    "sounds": [
+      "guojige"
+    ]
+  },
+  "help_me_erin": {
+    "category": "music",
+    "sounds": [
+      "help_me_erin"
+    ]
+  },
+  "hiirogekka": {
+    "category": "music",
+    "sounds": [
+      "hiirogekka"
+    ]
+  },
+  "ichiban": {
+    "category": "music",
+    "sounds": [
+      "ichiban"
+    ]
+  },
+  "kanojyo": {
+    "category": "music",
+    "sounds": [
+      "kanojyo"
+    ]
+  },
+  "kiminoshiranai": {
+    "category": "music",
+    "sounds": [
+      "kiminoshiranai"
+    ]
+  },
+  "koi": {
+    "category": "music",
+    "sounds": [
+      "koi"
+    ]
+  },
+  "koyoi": {
+    "category": "music",
+    "sounds": [
+      "koyoi"
+    ]
+  },
+  "miiro": {
+    "category": "music",
+    "sounds": [
+      "miiro"
+    ]
+  },
+  "monosugoi": {
+    "category": "music",
+    "sounds": [
+      "monosugoi"
+    ]
+  },
+  "myounichi": {
+    "category": "music",
+    "sounds": [
+      "myounichi"
+    ]
+  },
+  "ussr": {
+    "category": "music",
+    "sounds": [
+      "ussr"
+    ]
+  },
+  "ojyousama": {
+    "category": "music",
+    "sounds": [
+      "ojyousama"
+    ]
+  },
+  "only_my_railgun": {
+    "category": "music",
+    "sounds": [
+      "only_my_railgun"
+    ]
+  },
+  "owarinosekai": {
+    "category": "music",
+    "sounds": [
+      "owarinosekai"
+    ]
+  },
+  "players_score": {
+    "category": "music",
+    "sounds": [
+      "players_score"
+    ]
+  },
+  "poker_face": {
+    "category": "music",
+    "sounds": [
+      "poker_face"
+    ]
+  },
+  "rage_of_dust": {
+    "category": "music",
+    "sounds": [
+      "rage_of_dust"
+    ]
+  },
+  "rokucyounen": {
+    "category": "ambient",
+    "sounds": [
+      "rokucyounen"
+    ]
+  },
+  "sansuu": {
+    "category": "ambient",
+    "sounds": [
+      "sansuu"
+    ]
+  },
+  "sansuu9": {
+    "category": "ambient",
+    "sounds": [
+      "sansuu9"
+    ]
+  },
+  "senbenzakura": {
+    "category": "ambient",
+    "sounds": [
+      "senbenzakura"
+    ]
+  },
+  "setsugekka": {
+    "category": "ambient",
+    "sounds": [
+      "setsugekka"
+    ]
+  },
+  "shintakarajima": {
+    "category": "ambient",
+    "sounds": [
+      "shintakarajima"
+    ]
+  },
+  "sing_my_pleasure": {
+    "category": "ambient",
+    "sounds": [
+      "sing_my_pleasure"
+    ]
+  },
+  "taketori": {
+    "category": "ambient",
+    "sounds": [
+      "taketori"
+    ]
+  },
+  "todokanaikoi": {
+    "category": "ambient",
+    "sounds": [
+      "todokanaikoi"
+    ]
+  }
+}
